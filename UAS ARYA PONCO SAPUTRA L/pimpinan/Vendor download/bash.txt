@@ -1,0 +1,12 @@
+berikut ini adalah cara mendownload vendor untuk fitur download data pada halaman dashboard pimpinan:
+buka composer.exe
+
+cd C:\xampp\htdocs\UAS ARYA PONCO SAPUTRA L
+
+composer install
+
+letakkan folder /vendor didalam folder /pimpinan
+
+baru bisa diakses untuk fitur "download_data.php"
+
+saya lakukan ini karena file dalam folder /vendor terlalu banyak sehingga tidak bisa diupload dalam GitHub
